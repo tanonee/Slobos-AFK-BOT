@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "welcomeappletounstab.aternos.me:40928",
+    "port": 40928,
     "version": "1.21.1"
   },
   "position": {
